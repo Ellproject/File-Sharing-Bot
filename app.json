@@ -48,8 +48,8 @@
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
-      "required": false
+      "value": "True",
+      "required": true
     }
   },
   "addons": [
